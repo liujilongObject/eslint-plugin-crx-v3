@@ -8,7 +8,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-const rule = require("../../../lib/rules/api-call"),
+const rule = require("../../../lib/rules/api-calls"),
   RuleTester = require("eslint").RuleTester;
 
 
