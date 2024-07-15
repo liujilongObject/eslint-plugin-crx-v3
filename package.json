@@ -14,6 +14,7 @@
   "files": [
     "lib"
   ],
+  "homepage": "https://github.com/liujilongObject/eslint-plugin-crx-v3/blob/master/README.md",
   "scripts": {
     "lint": "npm-run-all \"lint:*\"",
     "lint:eslint-docs": "npm-run-all \"update:eslint-docs -- --check\"",
@@ -42,8 +43,12 @@
   "peerDependencies": {
     "eslint": ">=6.0.0"
   },
-  "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujilongObject/eslint-plugin-crx-v3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liujilongObject/eslint-plugin-crx-v3.git/issues"
+  },
+  "license": "MIT"
 }
