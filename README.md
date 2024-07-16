@@ -1,6 +1,6 @@
 # eslint-plugin-crx-v3
 
-Detect the v3 version of CRX
+Detect the v3 version of Chrome Extension
 
 ## Installation
 
