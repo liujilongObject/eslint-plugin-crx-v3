@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-crx-v3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect the v3 version of Chrome Extension",
   "keywords": [
     "eslint",
